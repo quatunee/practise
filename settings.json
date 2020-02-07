@@ -1,0 +1,5 @@
+{
+    "python.pythonPath": "D:\\CodeProjects\\PythonProjects\\opms\\.venv\\Scripts"
+    "python.linting.pylintEnabled": true
+    "python.linting.pylintArgs": ["--disable=C,broad-except,unused-variable",],
+}
